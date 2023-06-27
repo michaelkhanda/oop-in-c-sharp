@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/objectorientedprogramming/bin/Debug/netcoreapp3.1/objectorientedprogramming.deps.json
+/Users/michaelkhanda/Desktop/objectorientedprogramming/bin/Debug/netcoreapp3.1/objectorientedprogramming.runtimeconfig.json
+/Users/michaelkhanda/Desktop/objectorientedprogramming/bin/Debug/netcoreapp3.1/objectorientedprogramming.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/objectorientedprogramming/bin/Debug/netcoreapp3.1/objectorientedprogramming.dll
+/Users/michaelkhanda/Desktop/objectorientedprogramming/bin/Debug/netcoreapp3.1/objectorientedprogramming.pdb
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.dll
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.pdb
+/Users/michaelkhanda/Desktop/objectorientedprogramming/obj/Debug/netcoreapp3.1/objectorientedprogramming.genruntimeconfig.cache
